@@ -1,0 +1,4 @@
+INSERT INTO Roles(code, value)
+VALUES ('R1', 'Admin'),
+        ('R2', 'Moderator'),
+        ('R3', 'User');
